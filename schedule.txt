@@ -1,7 +1,13 @@
 schedule
 Monday
 Tuesday
+<<<<<<< HEAD
 
 
 
 This is the correct version.
+=======
+wednesday
+THursday
+Friday
+>>>>>>> 00cd14860e3ca2bb1e2f23634dbe8713e02a4e57
