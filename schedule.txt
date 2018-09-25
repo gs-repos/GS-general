@@ -1,10 +1,13 @@
 schedule
 <<<<<<< HEAD
+<<<<<<< HEAD
 Monday
 Tuesday
 wednesday
 THursday
 Friday
 This is the correct version.
+=======
+>>>>>>> parent of f0178bc... Added days
 =======
 >>>>>>> parent of f0178bc... Added days
